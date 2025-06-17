@@ -45,9 +45,11 @@ class SandeshRajbhar:
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 Netflix Content Recommender
 **Smart recommendation system using content-based filtering**
@@ -58,7 +60,7 @@ class SandeshRajbhar:
 **Tech**: `Python` `Streamlit` `Pandas` `Scikit-Learn`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌿 VARI - Smart Irrigation System
 **IoT-powered crop-specific watering solution**
@@ -71,7 +73,7 @@ class SandeshRajbhar:
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Financial KPI Dashboard
 **Comprehensive financial data visualization**
@@ -82,7 +84,7 @@ class SandeshRajbhar:
 **Tech**: `Power BI` `DAX` `SQL`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎒 Backpack Price Predictor
 **ML model for e-commerce price prediction**
@@ -95,6 +97,8 @@ class SandeshRajbhar:
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
