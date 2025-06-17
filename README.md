@@ -28,7 +28,7 @@ class SandeshRajbhar:
     
     def get_skills(self):
         return {
-            "languages": ["Python", "SQL", "C++", "R"],
+            "languages": ["Python", "SQL", "C++"],
             "ml_libraries": ["Pandas", "NumPy", "Scikit-Learn", "TensorFlow", 
                            "PyTorch", "Keras", "XGBoost", "LightGBM"],
             "visualization": ["Power BI", "Tableau", "Matplotlib", "Seaborn", "Plotly"],
@@ -106,7 +106,6 @@ class SandeshRajbhar:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Machine Learning & Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
