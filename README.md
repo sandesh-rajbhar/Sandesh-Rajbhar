@@ -6,7 +6,7 @@
 
 <div align="center">
   
-### 🎓 B.Tech Graduate | CGPA: 9.0/10 🏆  
+### 🎓 B.Tech Graduate | CGPA: 9.01/10 🏆  
 **Passionate about**: Machine Learning • Data Science • AI Innovation  
 **Mission**: *Transforming data into intelligent solutions that make a difference*
 
